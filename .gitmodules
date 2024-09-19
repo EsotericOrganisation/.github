@@ -1,0 +1,4 @@
+[submodule "profile/logo"]
+	path = profile/logo
+	url = https://github.com/EsotericOrganisation/logo.git
+	branch = main
